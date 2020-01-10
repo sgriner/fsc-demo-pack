@@ -4,6 +4,7 @@
   "LastName": "Frog",
   "Alias": "KFrog",
   "Email": "kermit@test.com",
+  "CountryCode": "US",
   "TimeZoneSidKey": "America/Los_Angeles",
   "LocaleSidKey": "en_US",
   "EmailEncodingKey": "UTF-8",

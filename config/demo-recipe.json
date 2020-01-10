@@ -27,11 +27,11 @@
       "recipeSteps": [
         { 
           "stepName":     "Install FSC Managed Package",
-          "description":  "Installs version 220.6 of the FSC managed package",
+          "description":  "Installs version 222.3 of the FSC managed package",
           "action":       "install-package",
           "options": {
-            "packageName":      "Financial Services Cloud (Managed Package), Version 220.6",
-            "packageVersionId": "04t1E000000y9ew"
+            "packageName":      "Financial Services Cloud (Managed Package), Version 222.3",
+            "packageVersionId": "04t1E000000yAH7"
           }
         },
         {
